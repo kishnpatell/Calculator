@@ -6,4 +6,4 @@
 alt="css3" width="40" height="40"/> </a>&nbsp|&nbsp
 HTML5 </h3>
 <hr>
-<img src="Calculator.png"></img>
+<img src="Calculator.png" width="700"></img>
