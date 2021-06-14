@@ -1,7 +1,7 @@
 <html>
 <head>
 
-	<title> ASS 18 </title>
+	<title> Calculator </title>
 </head>
 
 <script language="javascript">
