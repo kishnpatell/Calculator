@@ -1,75 +1,54 @@
+<!-- Start the coding for CSS -->
+<style>
+/* Create the Outer layout of the Calculator. */
+.formstyle
+{
+width: 300px;
+height: 330px;
+margin: 20px auto;
+border: 3px solid skyblue;
+border-radius: 5px;
+padding: 20px;
+text-align: center;
+background-color: grey;
+}
 
-	<style>
-	 <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  *{
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
+/* Display top horizontal bar that contain some information. */
+h1 {
+	text-align: center;
+	padding: 23px;
+	background-color: skyblue;
+	color: white;
+	}
+input:hover
+{
+background-color: green;
 }
-html{
-  font-size: 10px;
-  font-family: 'Nunito', sans-serif;
+	
+*{
+margin: 0;
+padding: 0;
 }
-body{
-  background-color: rgb(39, 39, 41);
-  color: yellow;
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+
+/* It is used to create the layout for calculator button. */
+.btn{
+width: 50px;
+height: 50px;
+font-size: 25px;
+margin: 2px;
+cursor: pointer;
+background-color: red;
+color: white;
+
 }
-section{
-  width: 100%;
-}
-.container{
-  width: 90%;
-  max-width: 450px;
-  margin: 0 auto;
-}
-form,.number-fact{
-  width: 100%;
-  background-color: rgb(92, 78, 92);
-  padding: 20px;
-  border-radius: 8px;
-}
-input[type="number"]{
-  width: 70%;
-  height: 40px;
-  border-radius: 4px;
-  outline: none;
-  border: none;
-  background-color: #3a3a3b;
-  font-size: 24px;
-  color: aliceblue;
-  padding-left: 10px;
-}
-input[type="number"]::placeholder{
-  font-size: 24px;
-  font-family: "Nunito";
-  font-weight: 400;
-}
-button{
-  display: inline-block;
-  width: 25%;
-  font-size: 24px;
-  height: 40px;
-  background-color:#3a3a3b;
-  color: pink;
-  border: none;
-  outline: none;
-  cursor: pointer;
-  margin-left: 10px;
-  border-radius: 4px;
-}
-.number-fact{
-  margin-top: 20px;
-  height: auto;
-  font-size: 20px;
-}
-@media only screen and (max-width: 678px){
-  form button{
-    font-size: 18px;
-  }
-  }
-	</style>
+
+/* It is used to display the numbers, operations and results. */
+.textview{
+width: 223px;
+margin: 5px;
+font-size: 25px;
+padding: 5px;
+background-color: lightgreen;
+}	
+	
+</style>
