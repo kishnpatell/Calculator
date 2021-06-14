@@ -2,12 +2,12 @@
 <head>
 	<title> Calculator </title>
 </head>
-/* JAVASCRIPT */
+/*  JAVASCRIPT  IN <SCRIPT> */
 
+/*---------------------------------------------*/
 
-/* CSS */
+/* CSS IN <STYLE>  */
 
-	
 	<body>
 	<form name="f1">
 	<center> <table border=2>
