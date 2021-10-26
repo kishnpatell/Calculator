@@ -2,4 +2,4 @@
 <hr>
 <h3> Using :> JavaScript | CSS | HTML </h3>
 <hr>
-<img src="Calculator.png" width="700"></img>
+<img src="Calculator.png" width="700">
