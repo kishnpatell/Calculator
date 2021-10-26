@@ -1,4 +1,4 @@
-# SIMPLE CALCULATOR
+# Simple Calculator
 <hr>
 <h3> Using :> JavaScript | CSS | HTML </h3>
 <hr>
