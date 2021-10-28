@@ -1,5 +1,5 @@
-# Simple Calculator
+<h3> Simple Calculator </h3>
 <hr>
-<h3> Using :> JavaScript | CSS | HTML </h3>
+<h2> Using :> JavaScript | CSS | HTML </h2>
 <hr>
-<img src="Calculator.png" width="700">
+<img src="Calculator.png" width="600">
